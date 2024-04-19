@@ -4,6 +4,7 @@
 2. Digita um número de 1 a 99.
 
 <hr> 
+
 # Segundo Jogo da Velha
 ## Objetivo:
 1. São dois jogadores X ou 0.
