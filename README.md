@@ -1,7 +1,7 @@
 # Primeiro Jogo da adivinhação
 ## Objetivo:
 1. Deve adivinha o número secreto,
-2. Digita um número de 1 a 99.
+2. Digita um número de 0 a 99.
 
 <hr> 
 
